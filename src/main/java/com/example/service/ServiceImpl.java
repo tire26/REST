@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package com.example.service;
 
-import com.example.demo.model.Employer;
-import com.example.demo.repository.Repository;
+import com.example.model.Employer;
+import com.example.repository.Repository;
 
 import java.util.List;
 

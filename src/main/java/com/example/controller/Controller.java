@@ -1,7 +1,7 @@
-package com.example.demo;
+package com.example.controller;
 
-import com.example.demo.model.Employer;
-import com.example.demo.service.Service;
+import com.example.model.Employer;
+import com.example.service.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
